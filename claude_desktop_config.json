@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "csv-query-server": {
+      "command": "node",
+      "args": ["C:\\Users\\ccost\\Documents\\i2a2-mcp-proxy\\mcp-proxy.js"]
+    }
+  }
+}
